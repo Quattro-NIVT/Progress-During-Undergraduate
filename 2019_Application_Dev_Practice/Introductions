@@ -1,2 +1,25 @@
 This folder shows what I have done during the application development practice, from 2019-10-08 to 2019-11-09.
 The practice is compulsory of my major. Though it takes too much time to review for the Graduation Extrance Examination.
+
+////////////////////////
+Background:
+I dont want to talk about it.
+
+
+Topic:
+No more than one month, re-development a software based on "QuantyView3D"[*1], within following functions:
+  (1).Generate and show 3D models of mining area's surface;
+  (2).Generate and show 3D models of geospheres and samples'data where drills penetrate;
+  (3).Merge data of the rock samples;
+  (4).Generate and show 3D models of the ore surface;
+  (5).Generate and show 3D models of the ore body;
+  (6).IDW estimate;
+  (7).Print report forms accroding to data from (6);
+  (8).A geo-database of the mining area;
+  (9).Surface analysis of 3D models;
+  (10).Compatiable clustering and discrimination methods of drill data.
+  
+  
+Routine:
+Function no.10 was assigned to me, and I helped finishing function no.1/5.
+
