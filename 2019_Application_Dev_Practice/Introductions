@@ -1,13 +1,15 @@
 This folder shows what I have done during the application development practice, from 2019-10-08 to 2019-11-09.
-The practice is compulsory of my major. Though it takes too much time to review for the Graduation Extrance Examination.
+The practice is compulsory to my major. Though it takes too much time to review for the Graduation Extrance Examination.
 
 ////////////////////////
-Background:
-I dont want to talk about it.
++ Background:
+  I dont want to talk about it.
+  "Their road will be long and hard. For the enemy is strong. He may hurl back our forces. 
+    Success may not come with rushing speed, but we shall return again and again."
 
 
-Topic:
-No more than one month, re-development a software based on "QuantyView3D"[*1], within following functions:
++ Requirements && Team division
+  No more than one month, re-development a software based on "QuantyView3D"[*1], within following functions:
   (1).Generate and show 3D models of mining area's surface;
   (2).Generate and show 3D models of geospheres and samples'data where drills penetrate;
   (3).Merge data of the rock samples;
@@ -19,7 +21,11 @@ No more than one month, re-development a software based on "QuantyView3D"[*1], w
   (9).Surface analysis of 3D models;
   (10).Compatiable clustering and discrimination methods of drill data.
   
-  
-Routine:
-Function no.10 was assigned to me, and I helped finishing function no.1/5.
+  About division:
+  I belongs to team:heli technology and we have 10 members to finish the task.
+  Fortunately, a GOAT(not pejorative) ---- who was awared the prize of 11th Li Siguang Innovation Project,  belongs to our team too.
+    + She individually completed the code progress of 3 functions!
+    + I haven't received her assistance, actually, because the function assigned to us do nothing with each other. 
+    
+  Function no.10 was assigned to me, I complete it in time and I helped finishing function no.1/5.
 
