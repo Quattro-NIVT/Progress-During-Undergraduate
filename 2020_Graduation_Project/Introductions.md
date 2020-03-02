@@ -12,9 +12,10 @@ This folder shows what I have done during the graduation Project, from 2019-12-2
     
   2020-02-03 Test K-Means Data Dimension Reduction.
     
-  2020-02-05 Complie Analysis Documents for associated oil well. ( Delay Coding until finish, asked by the supervisior.)
-    |
-    |—— 02-20 Finish all the analysis documents(40 oil well).
+  2020-02-05 Complie Analysis Documents for associated oil well. 
+    + ( Delay Coding until finish, asked by the supervisior.)
+    
+  2020-02-20 Finish all the analysis documents(40 oil well).
     
   2020-02-20 Test Sectional Graph Painting Methods.
     + It takes much time to correct the ordinate system! 
