@@ -4,9 +4,8 @@ This folder shows what I have done during the graduation Project, from 2019-12-2
 
 + Timeline && Critical Progress:
   2019-12-23 Begin learning.
-  2019-12-30 SOLVE A CRITICAL PROBLEM ------ Mix of multiple earthquake properities.
-    + Finish an algorithm of mix ------ The word 'mix' is of very abstract that 
-                                      I spend time on how to use code to reflect the process of data mix.
+  2019-12-30 SOLVE A CRITICAL PROBLEM : Mix of multiple earthquake properities.
+    + Finish an algorithm of mix. The word 'mix' is of very abstract. I spend time on how to use code to reflect the process of data mix.
     + Then it takes me few time to complete the python code. ---- Now I love python.(Not)Really.
     
   2020-01-01 HAPPY NEW YEAR!
@@ -23,7 +22,7 @@ This folder shows what I have done during the graduation Project, from 2019-12-2
   2020-02-24 SOLVE A CRITICAL PROBLEM ------ Correct Cluster Methods
     + Others graduates failed to code it correctly. I make it.
   
-  2020-03-02 Reconstruct Sectional Graph Painting Mthods.
+  <font color=#4169E1>2020-03-02 Reconstruct Sectional Graph Painting Mthods. </font>
     + Reconstruct it by OpenCV instead of the previous matplotlib.
     
 + Comments
