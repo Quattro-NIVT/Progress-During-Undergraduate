@@ -35,4 +35,16 @@ This folder shows what I have done during the graduation Project, from 2019-12-2
       During that time I could not find out any idea of it. And I asked my supervisor for turning it into my graduate project.
       (My supervisor require students to work with her team as a graduate, while I prefer other high-level universities.)
       
-  
+      
+      
+<font face="黑体">我是黑体字</font>
+
+<font face="微软雅黑">我是微软雅黑</font>
+
+<font face="STCAIYUN">我是华文彩云</font>
+
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+
+<font color=#00ffff size=72>color=#00ffff</font>
+
+<font color=gray size=72>color=gray</font>
