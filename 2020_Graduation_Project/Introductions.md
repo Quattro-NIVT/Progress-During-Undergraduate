@@ -22,7 +22,7 @@ This folder shows what I have done during the graduation Project, from 2019-12-2
   2020-02-20 Test Sectional Graph Painting Methods.
     + It takes much time to correct the ordinate system! 
     
-  2020-02-24 SOLVE A CRITICAL PROBLEM ------ Correct Cluster Methods
+  2020-02-24 SOLVE A CRITICAL PROBLEM ： Correct Cluster Methods
     + Others graduates failed to code it correctly. I make it.  
     
   
