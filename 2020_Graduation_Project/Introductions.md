@@ -20,24 +20,28 @@ This folder shows what I have done during the graduation Project, from 2019-12-2
   2020-02-05 Complie Analysis Documents for associated oil well. 
     + ( Delay Coding until finish, asked by the supervisior.)
     
-  2020-02-20 Finish all the analysis documents(40 oil well).
+  2020-02-20 Finish all the analysis documents(40 oil wells).
     
   2020-02-20 Test Auto-Encoder Data Dimension Reduction Algorithm.
     + It sounds really COOL but actually PCA is better, though no one(include my supervisior)can't find out the reason.
     
   2020-02-24 Improve AE, and now it can adapt to Geo-circumstance. 
-    + Still it does worse than PCA, but at some special 'edge' it does better.
-     
-    
+    + Still it does worse than PCA, but at some special 'edge' it does better.         
   
   <font color=#4169E1>2020-03-02 Reconstruct Sectional Graph Painting Mthods. </font>
-    + Reconstruct it by OpenCV instead of the previous matplotlib.  
+    + Reconstruct it by OpenCV instead of the previous matplotlib.    
+    
+  <font color=#4169E1>2020-03-?? Test 'Improved' multiple seismic proporities data mix algorithm. </font>
+    + It works better! While it actually does worse than singal propority data.
+    
+  <font color=#4169E1>2020-03-12 Re-sort seismic proporities to check the result. </font>
+    + Our lab has less data than it would have. 
     
 + Comments:  
 
   [1] Actually the theme of my project is part of college-level science and technology innovation project. 
       During that time I could not find out any idea of it. And I asked my supervisor for turning it into my graduate project.
-      (My supervisor require students to work with her team as a graduate, while I prefer other high-level universities.)
+      (My supervisor require students to work with her team as a graduate, while I prefer other universities.)
       
       
 
